@@ -4,3 +4,5 @@ import React from 'react'
 class Keypad extends from React.Component {
   
 }
+
+export default Keypad
